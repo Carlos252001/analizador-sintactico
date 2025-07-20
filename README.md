@@ -1,5 +1,5 @@
 # 🧠 Analizador Sintáctico LL(1) - Lenguaje Propio
-Este proyecto implementa un analizador sintáctico descendente predictivo (LL(1)) en Java, diseñado para verificar si una secuencia de tokens generada por un analizador léxico pertenece a un lenguaje definido por una gramática libre de contexto.
+Este proyecto implementa un **analizador sintáctico descendente predictivo LL(1)** en Java, apoyado en un **analizador léxico** previamente desarrollado. El sistema permite analizar cadenas de entrada (programas) en un lenguaje definido por una gramática libre de contexto, validando su estructura sintáctica y generando el proceso paso a paso.
 
 ---
 
